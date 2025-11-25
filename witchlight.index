@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+  <info>
+    <name>The Wild Beyond the Witchlight – Aurora Pack</name>
+    <author>ess emmaitch</author>
+    <update>2.1</update>
+    <description>Homebrew pack for Aurora Builder including races, subclasses, backgrounds, items, monsters, and spells inspired by Witchlight.</description>
+  </info>
+  <files>
+    <file>races/harengon.xml</file>
+    <file>races/feylost.xml</file>
+    <file>races/ghoul.xml</file>
+    <file>backgrounds/witchlight_hand.xml</file>
+    <file>backgrounds/feylost_wanderer.xml</file>
+    <file>subclasses/bard_college_of_mirth.xml</file>
+    <file>subclasses/warlock_witchlight_patron.xml</file>
+    <file>subclasses/rogue_whisperstep.xml</file>
+    <file>monsters/witchlight_feyfolk.xml</file>
+    <file>monsters/carnival_constructs.xml</file>
+    <file>items/witchlight_seed.xml</file>
+    <file>items/carnival_prizes.xml</file>
+    <file>items/mirrored_ticket.xml</file>
+    <file>spells/enthralling_melody.xml</file>
+    <file>spells/fey_step_variant.xml</file>
+    <file>feats/fey_touched.xml</file>
+    <file>traits/second_death_ghoul.xml</file>
+  </files>
+</index>
